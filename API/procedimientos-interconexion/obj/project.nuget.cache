@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9rj7sonerhq+iY6O+nPGsQqehQgRE5B9+Q8GM6rlJNmJzeIIZV9yjJHcowFGpWAcqwkMneRIFFOooShPcOxWQ==",
+  "dgSpecHash": "y1M0RS4L7NThA76k2UWLHpwsEBex8GX10gedXG62/rgtr6eEzjwLcJu6EhaTyzPIa0xuwOX0kBAFU750IzgvIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Proyectos\\API\\procedimientos-interconexion\\procedimientos-interconexion.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\GitHub\\Interconexion_v2\\API\\procedimientos-interconexion\\procedimientos-interconexion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
